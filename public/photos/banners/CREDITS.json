@@ -1,0 +1,114 @@
+{
+ "fashion-1.jpg": {
+  "source": "https://stocksnap.io/photo/fashion-clothes-ZN97ZIF3ZU",
+  "title": "Fashion Clothes",
+  "author": "Hannah Morgan",
+  "license": "CC0 1.0",
+  "from": "stocksnap"
+ },
+ "fashion-2.jpg": {
+  "source": "https://stocksnap.io/photo/clothes-clothing-KJ9ZK1L8WS",
+  "title": "Clothes Clothing",
+  "author": "Artificial Photography",
+  "license": "CC0 1.0",
+  "from": "stocksnap"
+ },
+ "fashion-3.jpg": {
+  "source": "https://stocksnap.io/photo/shirts-collared-07XWATYFD1",
+  "title": "Shirts Collared",
+  "author": "Patryk Dziejma",
+  "license": "CC0 1.0",
+  "from": "stocksnap"
+ },
+ "fashion-4.jpg": {
+  "source": "https://stocksnap.io/photo/fashion-mall-TBD46Y2U57",
+  "title": "Fashion Mall",
+  "author": "Yuriy Trubitsyn",
+  "license": "CC0 1.0",
+  "from": "stocksnap"
+ },
+ "electronics-1.jpg": {
+  "source": "https://stocksnap.io/photo/office-work-SFYDESHMC9",
+  "title": "Office Work",
+  "author": "WDnet Studio",
+  "license": "CC0 1.0",
+  "from": "stocksnap"
+ },
+ "electronics-2.jpg": {
+  "source": "https://stocksnap.io/photo/office-work-C2N64OP21L",
+  "title": "Office Work",
+  "author": "WDnet Studio",
+  "license": "CC0 1.0",
+  "from": "stocksnap"
+ },
+ "electronics-3.jpg": {
+  "source": "https://stocksnap.io/photo/gadget-modern-RM676MH2KP",
+  "title": "Gadget Modern",
+  "author": "Burak Kebapci",
+  "license": "CC0 1.0",
+  "from": "stocksnap"
+ },
+ "electronics-4.jpg": {
+  "source": "https://stocksnap.io/photo/laptop-computer-5UQ2YS94N1",
+  "title": "Laptop Computer",
+  "author": "Monoar Rahman",
+  "license": "CC0 1.0",
+  "from": "stocksnap"
+ },
+ "decor-1.jpg": {
+  "source": "https://stocksnap.io/photo/interior-design-HIH67XC5G0",
+  "title": "Interior Design",
+  "author": "Kristin Hardwick",
+  "license": "CC0 1.0",
+  "from": "stocksnap"
+ },
+ "decor-2.jpg": {
+  "source": "https://stocksnap.io/photo/coffee-table-8JQITZ05LX",
+  "title": "Coffee Table",
+  "author": "Kristin Hardwick",
+  "license": "CC0 1.0",
+  "from": "stocksnap"
+ },
+ "decor-3.jpg": {
+  "source": "https://stocksnap.io/photo/couch-furniture-TQNWBTLHLY",
+  "title": "Couch Furniture",
+  "author": "Kristin Hardwick",
+  "license": "CC0 1.0",
+  "from": "stocksnap"
+ },
+ "grocery-1.jpg": {
+  "source": "https://stocksnap.io/photo/market-fruits-VBQSBXBAO8",
+  "title": "Market Fruits",
+  "author": "Agnieszka%20Wal%u0119dziak",
+  "license": "CC0 1.0",
+  "from": "stocksnap"
+ },
+ "grocery-2.jpg": {
+  "source": "https://stocksnap.io/photo/basket-groceries-CUPJ7AU7JD",
+  "title": "Basket Groceries",
+  "author": "leonie wise",
+  "license": "CC0 1.0",
+  "from": "stocksnap"
+ },
+ "grocery-3.jpg": {
+  "source": "https://stocksnap.io/photo/drinks-food-8JM7H9ZB0J",
+  "title": "Drinks Food",
+  "author": "wu yi",
+  "license": "CC0 1.0",
+  "from": "stocksnap"
+ },
+ "grocery-4.jpg": {
+  "source": "https://www.rawpixel.com/image/5901597/photo-image-background-public-domain-fruit",
+  "title": "Free red berries basket image",
+  "author": "",
+  "license": "CC0 1.0",
+  "from": "rawpixel"
+ },
+ "watches-1.jpg": {
+  "source": "https://www.rawpixel.com/image/9064896/photo-image-vintage-public-domain",
+  "title": "Wristwatch, Hour Angle, Lindbergh, King",
+  "author": "",
+  "license": "CC0 1.0",
+  "from": "rawpixel"
+ }
+}

@@ -1,0 +1,499 @@
+{
+ "fashion-1.jpg": {
+  "source": "https://stocksnap.io/photo/fashion-clothes-ZN97ZIF3ZU",
+  "title": "Fashion Clothes",
+  "author": "Hannah Morgan",
+  "license": "CC0 1.0",
+  "from": "stocksnap"
+ },
+ "fashion-2.jpg": {
+  "source": "https://www.flickr.com/photos/194424926@N05/54372988829",
+  "title": "DSC_9961: a woman in a red cross uniform is posing in front of a rack of shirts",
+  "author": "PattayaPatrol",
+  "license": "BY-SA 2.0",
+  "from": "flickr"
+ },
+ "fashion-3.jpg": {
+  "source": "https://www.flickr.com/photos/194424926@N05/54541967578",
+  "title": "DSCF0435: a woman standing in front of a rack of clothes",
+  "author": "PattayaPatrol",
+  "license": "BY-SA 2.0",
+  "from": "flickr"
+ },
+ "electronics-1.jpg": {
+  "source": "https://stocksnap.io/photo/gadget-modern-RM676MH2KP",
+  "title": "Gadget Modern",
+  "author": "Burak Kebapci",
+  "license": "CC0 1.0",
+  "from": "stocksnap"
+ },
+ "electronics-2.jpg": {
+  "source": "https://stocksnap.io/photo/laptop-electronic-ZXOBOKAJEQ",
+  "title": "Laptop Electronic",
+  "author": "Brooke Cagle",
+  "license": "CC0 1.0",
+  "from": "stocksnap"
+ },
+ "grocery-1.jpg": {
+  "source": "https://stocksnap.io/photo/market-fruits-VBQSBXBAO8",
+  "title": "Market Fruits",
+  "author": "Agnieszka%20Wal%u0119dziak",
+  "license": "CC0 1.0",
+  "from": "stocksnap"
+ },
+ "grocery-2.jpg": {
+  "source": "https://stocksnap.io/photo/basket-groceries-CUPJ7AU7JD",
+  "title": "Basket Groceries",
+  "author": "leonie wise",
+  "license": "CC0 1.0",
+  "from": "stocksnap"
+ },
+ "grocery-3.jpg": {
+  "source": "https://www.flickr.com/photos/194424926@N05/54558034133",
+  "title": "DSCF0614: a pink basket filled with lots of different types of vegetables",
+  "author": "PattayaPatrol",
+  "license": "BY-SA 2.0",
+  "from": "flickr"
+ },
+ "watches-1.jpg": {
+  "source": "https://www.flickr.com/photos/192679240@N05/54451664310",
+  "title": "Wristwatch Crown",
+  "author": "yawning hunter",
+  "license": "BY 2.0",
+  "from": "flickr"
+ },
+ "watches-2.jpg": {
+  "source": "https://www.flickr.com/photos/9453335@N02/52973705514",
+  "title": "He Couldn't Help But Wonder if His New Wristwatch Wasn't Just a Smidgin Too Ostentatious",
+  "author": "Billy Quinn 1954",
+  "license": "BY 2.0",
+  "from": "flickr"
+ },
+ "watches-3.jpg": {
+  "source": "https://www.flickr.com/photos/51764518@N02/54150956816",
+  "title": "Vintage NHJ Wristwatch-Size Portable Television, Model VTV-101, 1.5 Inch TFT Color Liquid Crystal Monitor, Made In Japan, Circa 2004",
+  "author": "France1978",
+  "license": "BY 2.0",
+  "from": "flickr"
+ },
+ "mens-wear-1.jpg": {
+  "source": "https://www.flickr.com/photos/7156765@N05/51562251648",
+  "title": "Buffalo New York - Former Mens Clothing - Terrazzo - AKA former Visitors Center on Main Street",
+  "author": "Onasill - Bill Badzo - 149 Million Views - Thank Y",
+  "license": "PDM 1.0",
+  "from": "flickr"
+ },
+ "mens-wear-2.jpg": {
+  "source": "https://www.flickr.com/photos/7156765@N05/51559900558",
+  "title": "Buffalo New York - Downtown Club - Store front 1920's - Mens Clothing",
+  "author": "Onasill - Bill Badzo - 149 Million Views - Thank Y",
+  "license": "PDM 1.0",
+  "from": "flickr"
+ },
+ "mens-wear-3.jpg": {
+  "source": "https://www.flickr.com/photos/14149634@N00/52782983611",
+  "title": "Mens clothing store under the arches DSCF1990",
+  "author": "Roy Katzenberg",
+  "license": "BY 2.0",
+  "from": "flickr"
+ },
+ "womens-wear-1.jpg": {
+  "source": "https://www.flickr.com/photos/182435424@N02/52362118765",
+  "title": "Women wearing a teal polo shirt",
+  "author": "Rydale Country Clothing",
+  "license": "BY 2.0",
+  "from": "flickr"
+ },
+ "womens-wear-2.jpg": {
+  "source": "https://www.flickr.com/photos/182435424@N02/52356915726",
+  "title": "Women stood in a lake wearing wellies",
+  "author": "Rydale Country Clothing",
+  "license": "BY 2.0",
+  "from": "flickr"
+ },
+ "womens-wear-3.jpg": {
+  "source": "https://www.flickr.com/photos/182435424@N02/52361697776",
+  "title": "Women walking in a teal polo shirt",
+  "author": "Rydale Country Clothing",
+  "license": "BY 2.0",
+  "from": "flickr"
+ },
+ "shoes-1.jpg": {
+  "source": "https://www.flickr.com/photos/40129118@N08/51546832935",
+  "title": "No shoes, shoes and boots",
+  "author": "rallie1@yahoo.com",
+  "license": "PDM 1.0",
+  "from": "flickr"
+ },
+ "shoes-2.jpg": {
+  "source": "https://www.flickr.com/photos/184513163@N07/52682102975",
+  "title": "Wrinkledgal - Kickin' off my shoes 4",
+  "author": "wrinkledgal",
+  "license": "PDM 1.0",
+  "from": "flickr"
+ },
+ "shoes-3.jpg": {
+  "source": "https://www.flickr.com/photos/188518971@N05/52343154468",
+  "title": "Shopping for shoes",
+  "author": "ashleycollant",
+  "license": "PDM 1.0",
+  "from": "flickr"
+ },
+ "t-shirts-1.jpg": {
+  "source": "https://www.flickr.com/photos/7156765@N05/51540792955",
+  "title": "Cccp - Lake Placid - New York - Golden Arrow Lakeside Resort - Entrance - Red T-Shirt",
+  "author": "Onasill - Bill Badzo - 149 Million Views - Thank Y",
+  "license": "PDM 1.0",
+  "from": "flickr"
+ },
+ "t-shirts-2.jpg": {
+  "source": "https://www.flickr.com/photos/39038034@N03/52078113831",
+  "title": "New T-Shirt from TYT",
+  "author": "phit2btyd",
+  "license": "BY 2.0",
+  "from": "flickr"
+ },
+ "t-shirts-3.jpg": {
+  "source": "https://www.flickr.com/photos/35468134321@N01/147610254",
+  "title": "C-pix T-shirts",
+  "author": "Micah Sittig",
+  "license": "BY 2.0",
+  "from": "flickr"
+ },
+ "smartphones-1.jpg": {
+  "source": "https://www.flickr.com/photos/157635012@N07/31299887987",
+  "title": "Woman taking photo of bread and wine on her smartphone in restaurant.",
+  "author": "Artem Beliaikin",
+  "license": "CC0 1.0",
+  "from": "flickr"
+ },
+ "smartphones-2.jpg": {
+  "source": "https://www.flickr.com/photos/26700188@N05/52069894981",
+  "title": "Métro, masques et smartphones",
+  "author": "besopha",
+  "license": "BY 2.0",
+  "from": "flickr"
+ },
+ "smartphones-3.jpg": {
+  "source": "https://www.flickr.com/photos/154082794@N08/25959991057",
+  "title": "Focus on the Smartphone",
+  "author": "Skinny Guy Lover",
+  "license": "PDM 1.0",
+  "from": "flickr"
+ },
+ "audio-1.jpg": {
+  "source": "https://www.flickr.com/photos/57866029@N00/52459692877",
+  "title": "Koss headphones",
+  "author": "Abdulla Al Muhairi",
+  "license": "CC0 1.0",
+  "from": "flickr"
+ },
+ "audio-2.jpg": {
+  "source": "https://www.flickr.com/photos/96323831@N06/13617387834",
+  "title": "Woman with Headphones",
+  "author": "kohlmann.sascha",
+  "license": "BY-SA 2.0",
+  "from": "flickr"
+ },
+ "audio-3.jpg": {
+  "source": "https://stocksnap.io/photo/woman-headphones-NOLZXJLYKF",
+  "title": "Woman Headphones",
+  "author": "Burst",
+  "license": "CC0 1.0",
+  "from": "stocksnap"
+ },
+ "laptops-1.jpg": {
+  "source": "https://stocksnap.io/photo/macbook-laptop-DWLWL9USBG",
+  "title": "Macbook Laptop",
+  "author": "Lia Leslie",
+  "license": "CC0 1.0",
+  "from": "stocksnap"
+ },
+ "laptops-2.jpg": {
+  "source": "https://stocksnap.io/photo/macbook-laptop-UNB7V2H5L4",
+  "title": "Macbook Laptop",
+  "author": "Negative Space",
+  "license": "CC0 1.0",
+  "from": "stocksnap"
+ },
+ "laptops-3.jpg": {
+  "source": "https://www.flickr.com/photos/37996580417@N01/52290230612",
+  "title": "New stickerjob following back-panel upgrade, Framework Laptop, home, Burbank, California, USA",
+  "author": "gruntzooki",
+  "license": "BY-SA 2.0",
+  "from": "flickr"
+ },
+ "home-appliances-1.jpg": {
+  "source": "https://www.flickr.com/photos/193428582@N06/51298592433",
+  "title": "Kitchen appliances",
+  "author": "yvthzwli86",
+  "license": "CC0 1.0",
+  "from": "flickr"
+ },
+ "home-appliances-2.jpg": {
+  "source": "https://www.rawpixel.com/image/6984206/kitchen-appliance",
+  "title": "Kitchen appliance",
+  "author": "libraryofcongress",
+  "license": "CC0 1.0",
+  "from": "rawpixel"
+ },
+ "home-appliances-3.jpg": {
+  "source": "https://stocksnap.io/photo/restaurant-kitchen-BQ9K4RFVAM",
+  "title": "Restaurant Kitchen",
+  "author": "Alex Robert",
+  "license": "CC0 1.0",
+  "from": "stocksnap"
+ },
+ "accessories-1.jpg": {
+  "source": "https://www.rawpixel.com/image/5970217/autumn-accessories",
+  "title": "Autumn Accessories",
+  "author": "",
+  "license": "CC0 1.0",
+  "from": "rawpixel"
+ },
+ "mens-watches-1.jpg": {
+  "source": "https://www.flickr.com/photos/186360156@N02/52209067933",
+  "title": "SC 337388 - (409th Task Force photo series) Here, men watch the mountainside for the slightest movement from the enemy, to provide them a target upon which to open fire. 1 May, 1945.",
+  "author": "Signal Corps Archive",
+  "license": "PDM 1.0",
+  "from": "flickr"
+ },
+ "mens-watches-2.jpg": {
+  "source": "https://www.flickr.com/photos/51764518@N02/52191635941",
+  "title": "Vintage Zenith Defy Men's Watch, Quartz Movement, Analog Time With Red LED Display, Made In Switzerland, Circa Mid-1970s",
+  "author": "France1978",
+  "license": "BY-SA 2.0",
+  "from": "flickr"
+ },
+ "mens-watches-3.jpg": {
+  "source": "https://www.flickr.com/photos/186360156@N02/52247554974",
+  "title": "SC 335370 - Illinois men watch other Illini make biscuits, following the battle on Saipan.",
+  "author": "Signal Corps Archive",
+  "license": "PDM 1.0",
+  "from": "flickr"
+ },
+ "womens-watches-1.jpg": {
+  "source": "https://www.flickr.com/photos/45958601@N02/52166452069",
+  "title": "Young Women Watching The Boardwalk",
+  "author": "Joey Z1",
+  "license": "BY 2.0",
+  "from": "flickr"
+ },
+ "womens-watches-2.jpg": {
+  "source": "https://www.flickr.com/photos/200781279@N05/53867289466",
+  "title": "Various Figures and Landscapes: Women Watching Bathers along a River 1649",
+  "author": "museado",
+  "license": "CC0 1.0",
+  "from": "flickr"
+ },
+ "womens-watches-3.jpg": {
+  "source": "https://www.flickr.com/photos/184323695@N03/52787593388",
+  "title": "52 The Women watch the Crucifixion from a distance",
+  "author": "fz1844",
+  "license": "PDM 1.0",
+  "from": "flickr"
+ },
+ "smart-watches-1.jpg": {
+  "source": "https://stocksnap.io/photo/smartwatch-gps-XW2IM1GSYM",
+  "title": "Smartwatch Gps",
+  "author": "50Fish",
+  "license": "CC0 1.0",
+  "from": "stocksnap"
+ },
+ "smart-watches-2.jpg": {
+  "source": "https://www.flickr.com/photos/92842970@N00/51725871074",
+  "title": "I designed and developed the watch face for fitbit sense. But the kerning of the font is too bad... fitbit sense smartwatch スマートウォッチ JavaScript CSS Japan 日本 ivva ivvaDOTinfo",
+  "author": "ivva",
+  "license": "BY-SA 2.0",
+  "from": "flickr"
+ },
+ "smart-watches-3.jpg": {
+  "source": "https://www.flickr.com/photos/192017723@N07/52617265938",
+  "title": "Seiko RC-1000 Smartwatch",
+  "author": "Pouazity",
+  "license": "BY 2.0",
+  "from": "flickr"
+ },
+ "dresses-1.jpg": {
+  "source": "https://www.flickr.com/photos/8457667@N08/47326004491",
+  "title": "Dresses addict, dresses attic",
+  "author": "Paula Satijn",
+  "license": "BY-ND 2.0",
+  "from": "flickr"
+ },
+ "dresses-2.jpg": {
+  "source": "https://www.flickr.com/photos/8457667@N08/51754749129",
+  "title": "Pink dress for a very special reason",
+  "author": "Paula Satijn",
+  "license": "BY-ND 2.0",
+  "from": "flickr"
+ },
+ "dresses-3.jpg": {
+  "source": "https://www.flickr.com/photos/8457667@N08/51821427011",
+  "title": "Vintage dress",
+  "author": "Paula Satijn",
+  "license": "BY-ND 2.0",
+  "from": "flickr"
+ },
+ "sarees-1.jpg": {
+  "source": "https://www.flickr.com/photos/169022792@N02/55014594895",
+  "title": "Saree Spy 1",
+  "author": "GaoFeiWings",
+  "license": "CC0 1.0",
+  "from": "flickr"
+ },
+ "jeans-1.jpg": {
+  "source": "https://www.flickr.com/photos/149556095@N03/51382684857",
+  "title": "jeans butt",
+  "author": "marcostetter",
+  "license": "PDM 1.0",
+  "from": "flickr"
+ },
+ "jeans-2.jpg": {
+  "source": "https://www.flickr.com/photos/149556095@N03/50277326582",
+  "title": "old jeans bw",
+  "author": "marcostetter",
+  "license": "PDM 1.0",
+  "from": "flickr"
+ },
+ "jeans-3.jpg": {
+  "source": "https://www.flickr.com/photos/184513163@N07/52316312268",
+  "title": "Purple Painted Toe Ring Queen In Mom Jeans",
+  "author": "wrinkledgal",
+  "license": "PDM 1.0",
+  "from": "flickr"
+ },
+ "shirts-1.jpg": {
+  "source": "https://www.rawpixel.com/image/3336818/free-photo-image-woman-adventure-adventurer",
+  "title": "Woman wearing blue dress shirt",
+  "author": "",
+  "license": "CC0 1.0",
+  "from": "rawpixel"
+ },
+ "shirts-2.jpg": {
+  "source": "https://www.flickr.com/photos/77309394@N00/16146934081",
+  "title": "Shirt I made",
+  "author": "flikr",
+  "license": "BY 2.0",
+  "from": "flickr"
+ },
+ "shirts-3.jpg": {
+  "source": "https://www.flickr.com/photos/95163690@N07/54183415901",
+  "title": "💙 Silky shirt dress 💙",
+  "author": "Rikky_Satin",
+  "license": "BY 2.0",
+  "from": "flickr"
+ },
+ "wall-decor-1.jpg": {
+  "source": "https://www.flickr.com/photos/82134796@N03/51732786549",
+  "title": "Adelaide. 1940s Art Deco house. Stucco walls, decorative chimney, stepped bricks on corners and chimney, rounded window ridge, rounded porch entry leadlight window, glazed bricks above foundations, asymmetrical facade .",
+  "author": "denisbin",
+  "license": "BY-ND 2.0",
+  "from": "flickr"
+ },
+ "wall-decor-2.jpg": {
+  "source": "https://www.flickr.com/photos/43615815@N06/15223894158",
+  "title": "2014-09-27-wall-decoration",
+  "author": "Rarst",
+  "license": "BY-SA 2.0",
+  "from": "flickr"
+ },
+ "wall-decor-3.jpg": {
+  "source": "https://www.flickr.com/photos/41523983@N08/49845805958",
+  "title": "KV17, the tomb of Pharaoh Seti I of the Nineteenth Dynasty, Pillared chamber F, southeast wall decorated with the scenes from the Book of Gates, Valley of the Kings, Egypt",
+  "author": "Following Hadrian",
+  "license": "BY-SA 2.0",
+  "from": "flickr"
+ },
+ "lighting-1.jpg": {
+  "source": "https://www.flickr.com/photos/147961428@N03/36428021973",
+  "title": "Bocci 73.20 Led Twenty Pendant Light Replica",
+  "author": "ZoraLighting",
+  "license": "PDM 1.0",
+  "from": "flickr"
+ },
+ "lighting-2.jpg": {
+  "source": "https://www.flickr.com/photos/7940758@N07/52121197624",
+  "title": "Pendant light",
+  "author": "MIKI Yoshihito. (#mikiyoshihito)",
+  "license": "BY 2.0",
+  "from": "flickr"
+ },
+ "lighting-3.jpg": {
+  "source": "https://www.flickr.com/photos/59081381@N03/54215509031",
+  "title": "Pendant Lights, Adler Planetarium, Solidarity Drive, Chicago, IL",
+  "author": "w_lemay",
+  "license": "BY-SA 2.0",
+  "from": "flickr"
+ },
+ "vases-plants-1.jpg": {
+  "source": "https://stocksnap.io/photo/vase-plant-PZDCHOWIZ4",
+  "title": "Vase Plant",
+  "author": "Brodie Vissers",
+  "license": "CC0 1.0",
+  "from": "stocksnap"
+ },
+ "vases-plants-2.jpg": {
+  "source": "https://www.flickr.com/photos/97123293@N07/15386571906",
+  "title": "Snapdragon. Paxton's Magazine of botany and register of flowering plants vol. 13 (1847)-",
+  "author": "Swallowtail Garden Seeds",
+  "license": "BY 2.0",
+  "from": "flickr"
+ },
+ "vases-plants-3.jpg": {
+  "source": "https://stocksnap.io/photo/house-plant-MUNCW5ZFUZ",
+  "title": "House Plant",
+  "author": "Kristin Hardwick",
+  "license": "CC0 1.0",
+  "from": "stocksnap"
+ },
+ "cushions-candles-1.jpg": {
+  "source": "https://www.flickr.com/photos/153584064@N07/52228774978",
+  "title": "Nude study, girl sitting on flowered cushion (1923–1924) print in high resolution by George Wesley Bellows. Original from the Boston Public Library. Digitally enhanced by rawpixel.",
+  "author": "Free Public Domain Illustrations by rawpixel",
+  "license": "BY 2.0",
+  "from": "flickr"
+ },
+ "cushions-candles-2.jpg": {
+  "source": "https://www.flickr.com/photos/30845197@N00/52688525564",
+  "title": "Mother-in-Law's Cushion",
+  "author": "RG in TLV",
+  "license": "BY 2.0",
+  "from": "flickr"
+ },
+ "cushions-candles-3.jpg": {
+  "source": "https://www.flickr.com/photos/125741467@N05/52613716712",
+  "title": "Grey-cushioned grimmia",
+  "author": "hedera.baltica",
+  "license": "BY-SA 2.0",
+  "from": "flickr"
+ },
+ "snacks-1.jpg": {
+  "source": "https://www.flickr.com/photos/51986662@N05/52391319925",
+  "title": "Goldfinch Snacking on Maximillian Sunflower Seeds Lake Andes Wetland Management District South Dakota",
+  "author": "USFWS Mountain Prairie",
+  "license": "PDM 1.0",
+  "from": "flickr"
+ },
+ "snacks-2.jpg": {
+  "source": "https://www.flickr.com/photos/28435100@N00/52197107365",
+  "title": "Enjoying a snack, on a nice bench, on this lovely warm day",
+  "author": "nordique",
+  "license": "BY 2.0",
+  "from": "flickr"
+ },
+ "snacks-3.jpg": {
+  "source": "https://www.flickr.com/photos/133117136@N05/50981549291",
+  "title": "Dodo. Pizzas & Snacks",
+  "author": "dodopizzastory",
+  "license": "BY-SA 2.0",
+  "from": "flickr"
+ },
+ "beverages-1.jpg": {
+  "source": "https://stocksnap.io/photo/beverage-drink-U8NTJVCXBL",
+  "title": "Beverage Drink",
+  "author": "Jakob Owens",
+  "license": "CC0 1.0",
+  "from": "stocksnap"
+ }
+}

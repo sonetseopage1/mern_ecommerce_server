@@ -1,0 +1,86 @@
+{
+ "fashion": [
+  "fashion.jpg"
+ ],
+ "electronics": [
+  "electronics.jpg"
+ ],
+ "grocery": [
+  "grocery.jpg"
+ ],
+ "watches": [
+  "watches.jpg"
+ ],
+ "home-decor": [
+  "home-decor.jpg"
+ ],
+ "mens-wear": [
+  "mens-wear.jpg"
+ ],
+ "womens-wear": [
+  "womens-wear.jpg"
+ ],
+ "shoes": [
+  "shoes.jpg"
+ ],
+ "t-shirts": [
+  "t-shirts.jpg"
+ ],
+ "smartphones": [
+  "smartphones.jpg"
+ ],
+ "audio": [
+  "audio.jpg"
+ ],
+ "laptops": [
+  "laptops.jpg"
+ ],
+ "home-appliances": [
+  "home-appliances.jpg"
+ ],
+ "accessories": [
+  "accessories.jpg"
+ ],
+ "mens-watches": [
+  "mens-watches.jpg"
+ ],
+ "womens-watches": [
+  "womens-watches.jpg"
+ ],
+ "smart-watches": [
+  "smart-watches.jpg"
+ ],
+ "dresses": [
+  "dresses.jpg"
+ ],
+ "sarees": [
+  "sarees.jpg"
+ ],
+ "panjabi": [
+  "panjabi.jpg"
+ ],
+ "jeans": [
+  "jeans.jpg"
+ ],
+ "shirts": [
+  "shirts.jpg"
+ ],
+ "wall-decor": [
+  "wall-decor.jpg"
+ ],
+ "lighting": [
+  "lighting.jpg"
+ ],
+ "vases-plants": [
+  "vases-plants.jpg"
+ ],
+ "cushions-candles": [
+  "cushions-candles.jpg"
+ ],
+ "snacks": [
+  "snacks.jpg"
+ ],
+ "beverages": [
+  "beverages.jpg"
+ ]
+}

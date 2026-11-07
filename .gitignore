@@ -1,0 +1,24 @@
+# dependencies
+node_modules
+
+# secrets – copy .env.example to .env and fill it in
+.env
+.env.*
+!.env.example
+
+# user uploads (created at runtime by Admin → upload)
+public/uploads/*
+
+# photo search candidates / leftovers from scripts/fetch-images.js. Only the photos listed in
+# public/photos/*/index.json are tracked (add new picks with: git add -f public/photos/<kind>/<file>)
+public/photos/*/*.jpg
+public/products/
+public/categories/
+
+# logs & OS files
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+.vscode/*
+.idea
